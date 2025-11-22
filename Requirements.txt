@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+
+
+
+| Library                | Purpose                                    |
+| ---------------------- | ------------------------------------------ |
+| **numpy**              | Numerical operations, arrays               |
+| **pandas**             | Load CSV/XLSX, data cleaning               |
+| **matplotlib**         | Visualizations                             |
+| **seaborn**            | Advanced graphs                            |
+| **scikit-learn**       | PCA, Logistic Regression, train-test split |
+| **openpyxl**           | Read Excel file (.xlsx)                    |
+| **jupyter / notebook** | Run project in Jupyter Notebook            |
