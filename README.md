@@ -1,10 +1,3 @@
-Here is the **best cumulative, detailed, and recruiter-ready version**, combining clarity, technical depth, and strong explanation.
-This version is structured, professional, and shows conceptual understanding — exactly what recruiters look for.
-
-You can directly use this in your README or project report.
-
----
-
 # 🎯 Project Objective
 
 The primary objective of this project is to **predict the genre of music tracks** using a structured machine learning pipeline built around **Principal Component Analysis (PCA)** and **Logistic Regression**.
